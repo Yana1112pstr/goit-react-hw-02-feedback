@@ -1,0 +1,12 @@
+.section {
+  display: block;
+  margin: 50px auto;
+  max-width: 600px;
+}
+
+.title {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 40px;
+  color: black;
+  text-align: center;
+}
